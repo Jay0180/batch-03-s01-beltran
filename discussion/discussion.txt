@@ -1,0 +1,47 @@
+Command-line interface
+    -CLI
+    -allow us to interact with computer program by typing commands rather using grahpical user interface
+
+    make directior
+        -it allows us to create a new directory
+        -mkdir <directiory/folder name>
+        -ex
+            mkdir Documents
+
+    list
+        -it allow us to show all the files and folders within the given path
+        -ls (dir)
+        -ex
+            ls
+    
+    create empty files
+    -it allow us to crea a new files
+    -touch <filename.ext>
+    -ex touch discussion.txt
+
+    remove a file
+        -it allows us to remove a chosen file
+        -rm <filename.ext>
+        -ex
+            rm sample.txt
+    
+    display the contents of a file
+        -cat <filename.ext>
+        -ex 
+            cat discussion.txt
+    
+    search a file
+        -find . -name "filename.ext"
+        -ex
+            find . -name "discussion.txt"
+
+Git 
+    ~ distributed version control system which means that every user has a full copy of the repo on their local machine
+
+VCS
+    Git commands
+        -git status
+            -it allows to check what has changed in a directory
+            
+        -git init
+            - allows us to initialize git to our working environment

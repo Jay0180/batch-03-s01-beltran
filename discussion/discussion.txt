@@ -45,3 +45,5 @@ VCS
             
         -git init
             - allows us to initialize git to our working environment
+
+        -git commit -m "commit messages should be imperative language"

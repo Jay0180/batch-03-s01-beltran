@@ -47,3 +47,10 @@ VCS
             - allows us to initialize git to our working environment
 
         -git commit -m "commit messages should be imperative language"
+        -view of displays git log history
+            -git log
+
+        ~configuration
+            - git config --global user.email<emailAddress>
+            -git config --global user.name<name>
+            git config --list
